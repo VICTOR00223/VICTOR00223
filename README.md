@@ -5,7 +5,7 @@
 🎯 Aspiring **Java Developer** | Strong in **Data Structures & Algorithms** 
 
 ## 🔹 About Me
-- Currently finishing military service, preparing for **Java backend developer** roles.
+- Currently finishing military service, preparing for **Java developer** roles.
 - Passionate about **clean code**, **OOP**, and **problem solving**.
 - Solid foundation in **C programming** and **computer science fundamentals** from university.
 
